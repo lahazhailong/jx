@@ -1,0 +1,9 @@
+server:
+    port: 8020
+    context-path: /crm
+
+spring:
+  mvc:
+    view:
+      prefix: /view
+      suffix: .html
